@@ -89,7 +89,8 @@ nav ul li a:hover {
 
 /* Hero Section */
 #hero {
-    background: url('https://via.placeholder.com/1500x600?text=温馨甜品背景') no-repeat center center/cover; /* 温馨背景图 */
+    /* 图片来源: Unsplash, 作者: Food Photographer | Jennifer Pallian */
+    background: url('https://images.unsplash.com/photo-1558229983-097a82c687e3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1500&h=600&q=80') no-repeat center center/cover; /* 温馨背景图 */
     color: #fff;
     text-align: center;
     padding: 100px 20px;
